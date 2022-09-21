@@ -35,7 +35,7 @@ http://192.168.5.1:4022/udp/239.3.1.115:8000
 http://192.168.5.1:4022/udp/239.3.1.189:8000
 
 #EXTINF:-1 tvg-name="北京纪实" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV冬奥纪实4K
-http://192.168.5.1:4022/rtp/239.3.1.243:8000
+http://192.168.5.1:4022/rtp/239.3.1.230:8000
 
 #EXTINF:-1 tvg-name="BTV国际频道" group-title="北京地方" tvg-logo="",BTV国际频道
 http://192.168.5.1:4022/udp/239.3.1.235:8000
@@ -121,38 +121,8 @@ http://192.168.5.1:4022/udp/239.3.1.151:8144
 # http://60.255.49.202/live/bqkj.m3u8
 http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 
-
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png",CCTV 第一剧场[高清]
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",CCTV 怀旧剧场[高清]
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",CCTV 风云剧场[高清]
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",CCTV风云音乐
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-
-
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png",CCTV 世界地理[高清]
-http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
-
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://egp.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K[超清]
 http://192.168.5.1:4022/udp/239.3.1.236:2000
-
-
-#EXTINF:-1 tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="北京地方",CHC家庭影院
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
-
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="北京地方",CHC高清电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="北京地方",CHC动作电影
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
 
 #EXTINF:-1 tvg-name="每日影院" 每日影院[高清]
 http://192.168.5.1:4022/udp/239.3.1.111:8001
