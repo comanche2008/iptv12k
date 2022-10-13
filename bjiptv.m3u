@@ -13,7 +13,7 @@ http://192.168.5.1:4022/udp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="BTV新闻" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png",BTV新闻[高清]
 http://192.168.5.1:4022/udp/239.3.1.159:8000
 
-#EXTINF:-1 tvg-name="BTV影视" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",BTV影视[高清]
+#EXTINF:-1 tvg-name="BTV影视" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png",BTV影视[高清]
 http://192.168.5.1:4022/udp/239.3.1.158:8000
 
 #EXTINF:-1 tvg-name="BTV文艺" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",BTV文艺[高清]
@@ -34,7 +34,7 @@ http://192.168.5.1:4022/udp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",BTV卡酷少儿[高清]
 http://192.168.5.1:4022/udp/239.3.1.189:8000
 
-#EXTINF:-1 tvg-name="北京体育休闲" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV冬奥纪实4K
+#EXTINF:-1 tvg-name="北京体育休闲" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV体育休闲[高清]
 http://192.168.5.1:4022/rtp/239.3.1.243:8000
 
 #EXTINF:-1 tvg-name="BTV国际频道" group-title="北京地方" tvg-logo="",BTV国际频道
