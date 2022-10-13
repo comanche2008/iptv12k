@@ -118,7 +118,7 @@ http://192.168.5.1:4022/udp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://egp.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K[超清]
 http://192.168.5.1:4022/udp/239.3.1.236:2000
 
-#EXTINF:-1 tvg-name="每日影院" 每日影院[高清]
+#EXTINF:-1 tvg-name="每日影院" tvg-logo="" group-title="北京地方",每日影院[高清]
 http://192.168.5.1:4022/udp/239.3.1.111:8001
 
 #EXTINF:-1,星影
@@ -142,13 +142,13 @@ http://192.168.5.1:4022/udp/239.3.1.74:4120
 #EXTINF:-1 tvg-name="IPTV经典电影",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",经典电影
 http://192.168.5.1:4022/udp/239.3.1.195:9024
 
-#EXTINF:-1 tvg-name="上海纪实",tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",纪实人文[高清]
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="北京地方",纪实人文[高清]
 http://192.168.5.1:4022/udp/239.3.1.212:8060
 
-#EXTINF:-1 tvg-name="金鹰纪实",tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",金鹰纪实[高清]
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="北京地方",金鹰纪实[高清]
 http://192.168.5.1:4022/udp/239.3.1.58:8156
 
-#EXTINF:-1 风尚生活[高清]
+#EXTINF:-1 tvg-name="风尚生活" tvg-logo="" group-title="北京地方",风尚生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.114:8001
 
 #EXTINF:-1 地理
@@ -203,7 +203,7 @@ http://192.168.5.1:4022/rtp/239.3.1.157:8176
 #EXTINF:-1 幸福剧场[高清]
 http://192.168.5.1:4022/udp/239.3.1.112:8001
 
-#EXTINF:-1 幸福娱乐[高清]
+#EXTINF:-1 tvg-name="幸福娱乐" group-title="北京地方",幸福娱乐[高清]
 http://192.168.5.1:4022/udp/239.3.1.113:8001
 
 #EXTINF:-1 tvg-name="湖南卫视" group-title="各地卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视[高清]
