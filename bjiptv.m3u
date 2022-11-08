@@ -116,6 +116,9 @@ http://192.168.5.1:4022/rtp/239.3.1.97:8001
 #EXTINF:-1 tvg-name="CCTV17" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17 农业农村[高清]
 http://192.168.5.1:4022/udp/239.3.1.151:8144
 
+#EXTINF:-1 tvg-name="CCTV4K" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tv1/CCTV/CCTV4k.png",CCTV-4K 央视4k
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u
+
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://egp.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K[超清]
 http://192.168.5.1:4022/udp/239.3.1.236:2000
 
