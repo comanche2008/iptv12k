@@ -1,6 +1,11 @@
-
-
-
+# NAME: OpenAI
+# AUTHOR:
+# REPO:
+# UPDATED: 2023-03-15 23:47:08
+# DOMAIN: 
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 1
+# TOTAL: 3
 
 payload:
   - DOMAIN-SUFFIX,openai.com
