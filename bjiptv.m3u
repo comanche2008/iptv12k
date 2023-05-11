@@ -24,8 +24,8 @@ http://192.168.5.1:4022/udp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="BTV生活" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png",BTV生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.117:8000
 
-#EXTINF:-1 tvg-name="BTV青年" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png",BTV青年[高清]
-http://192.168.5.1:4022/udp/239.3.1.118:8000
+#EXTINF:-1 tvg-name="BTV体育休闲4kSDR" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png",BTV体育休闲4kSDR
+http://192.168.5.1:4022/udp/239.3.1.121:8000
 
 #EXTINF:-1 tvg-name="BTV科教" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png",BTV科教[高清]
 http://192.168.5.1:4022/udp/239.3.1.115:8000
@@ -33,11 +33,11 @@ http://192.168.5.1:4022/udp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",BTV卡酷少儿[高清]
 http://192.168.5.1:4022/udp/239.3.1.189:8000
 
-#EXTINF:-1 tvg-name="北京体育休闲" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV体育休闲[高清]
+#EXTINF:-1 tvg-name="北京体育休闲" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png",BTV体育休闲[高清]
 http://192.168.5.1:4022/rtp/239.3.1.243:8000
 
-#EXTINF:-1 tvg-name="BTV国际频道" group-title="北京地方" tvg-logo="",BTV国际频道
-http://192.168.5.1:4022/udp/239.3.1.235:8000
+#EXTINF:-1 tvg-name="BTV体育休闲4kHDR" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png",BTV体育休闲4kHDR
+http://192.168.5.1:4022/udp/239.3.1.120:8000
 
 #EXTINF:-1 tvg-name="北京IPTV4K超清" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptv4k.png" group-title="北京地方",北京IPTV4K超清
 http://192.168.5.1:4022/udp/239.3.1.249:8001
@@ -109,13 +109,13 @@ http://192.168.5.1:4022/udp/239.3.1.65:8132
 http://192.168.5.1:4022/udp/239.3.1.153:8136
 
 #EXTINF:-1 tvg-name="CCTV16" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16 奥林匹克4k[高清]
-http://192.168.5.1:4022/rtp/239.3.1.97:8001
+http://192.168.5.1:4022/rtp/239.3.1.184:8001
 
 #EXTINF:-1 tvg-name="CCTV17" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17 农业农村[高清]
 http://192.168.5.1:4022/udp/239.3.1.151:8144
 
 #EXTINF:-1 tvg-name="CCTV4K" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tv1/CCTV/CCTV4k.png",CCTV-4K 央视4k
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u
+http://192.168.5.1:4022/udp/239.3.1.183:8001
 
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://egp.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K[超清]
 http://192.168.5.1:4022/udp/239.3.1.236:2000
@@ -150,6 +150,9 @@ http://192.168.5.1:4022/udp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="北京地方",金鹰纪实[高清]
 http://192.168.5.1:4022/udp/239.3.1.58:8156
 
+#EXTINF:-1 tvg-name="纪实频道HD" tvg-logo="" group-title="北京地方",纪实频道HD
+http://192.168.5.1:4022/udp/239.3.1.212:8060
+
 #EXTINF:-1 tvg-name="风尚生活" tvg-logo="" group-title="北京地方",风尚生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.114:8001
 
@@ -160,8 +163,9 @@ http://192.168.5.1:4022/udp/239.3.1.71:4120
 http://192.168.5.1:4022/rtp/239.3.1.162:8001
 #EXTINF:-1,IPTV3+
 http://192.168.5.1:4022/rtp/239.3.1.198:9004
-#EXTINF:-1,IPTV5+
-http://192.168.5.1:4022/rtp/239.3.1.200:9008
+#EXTINF:-1,tvg-name="IPTV5+高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="北京地方",IPTV5+高清
+http://192.168.5.1:4022/rtp/239.3.1.237:4120
+
 #EXTINF:-1,IPTV6+
 http://192.168.5.1:4022/rtp/239.3.1.197:9016
 #EXTINF:-1,IPTV8+
@@ -202,10 +206,10 @@ http://192.168.5.1:4022/rtp/239.3.1.248:2000
 http://192.168.5.1:4022/rtp/239.3.1.237:4120
 #EXTINF:-1,体育赛事高清
 http://192.168.5.1:4022/rtp/239.3.1.157:8176
-#EXTINF:-1 幸福剧场[高清]
+#EXTINF:-1 tvg-name="幸福剧场" tvg-logo="" group-title="北京地方",幸福剧场[高清]
 http://192.168.5.1:4022/udp/239.3.1.112:8001
 
-#EXTINF:-1 tvg-name="幸福娱乐" group-title="北京地方",幸福娱乐[高清]
+#EXTINF:-1 tvg-name="幸福娱乐" tvg-logo="" group-title="北京地方",幸福娱乐[高清]
 http://192.168.5.1:4022/udp/239.3.1.113:8001
 
 #EXTINF:-1 tvg-name="湖南卫视" group-title="各地卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视[高清]
@@ -331,7 +335,7 @@ http://192.168.5.1:4022/udp/239.3.1.216:4220
 #EXTINF:-1 tvg-name="茶频道" group-title="",茶频道[高清]
 http://192.168.5.1:4022/udp/239.3.1.165:8001
 
-#EXTINF:-1,体育赛事[高清]
+#EXTINF:-1,tvg-name="体育赛事" tvg-logo="" group-title="北京地方",体育赛事[高清]
 http://192.168.5.1:4022/udp/239.3.1.157:8176
 
 #EXTINF:-1 tvg-name="淘精彩" group-title="北京地方",淘精彩[高清]
