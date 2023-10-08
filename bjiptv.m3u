@@ -24,9 +24,6 @@ http://192.168.5.1:4022/udp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="BTV生活" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png",BTV生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.117:8000
 
-#EXTINF:-1 tvg-name="BTV体育休闲4kSDR" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png",BTV体育休闲4kSDR
-http://192.168.5.1:4022/udp/239.3.1.121:8000
-
 #EXTINF:-1 tvg-name="BTV科教" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png",BTV科教[高清]
 http://192.168.5.1:4022/udp/239.3.1.115:8000
 
@@ -35,9 +32,6 @@ http://192.168.5.1:4022/udp/239.3.1.189:8000
 
 #EXTINF:-1 tvg-name="北京体育休闲" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png",BTV体育休闲[高清]
 http://192.168.5.1:4022/rtp/239.3.1.243:8000
-
-#EXTINF:-1 tvg-name="BTV体育休闲4kHDR" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png",BTV体育休闲4kHDR
-http://192.168.5.1:4022/udp/239.3.1.120:8000
 
 #EXTINF:-1 tvg-name="北京IPTV4K超清" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptv4k.png" group-title="北京地方",北京IPTV4K超清
 http://192.168.5.1:4022/udp/239.3.1.249:8001
