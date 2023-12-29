@@ -18,3 +18,14 @@ payload:
   - DOMAIN-SUFFIX:lion-nba-msl.akamaized.net
   - DOMAIN-SUFFIX:nbanlds19vod.akamaized.net
   - DOMAIN-KEYWORD,nba
+  - DOMAIN-KEYWORD,bitmovin.com
+  - DOMAIN-KEYWORD,celtra.com
+  - DOMAIN-KEYWORD,measurement.com
+  - DOMAIN-KEYWORD,branch.io
+  - DOMAIN-KEYWORD,demdex.net
+  - DOMAIN-KEYWORD,amplitude.com
+  - DOMAIN-KEYWORD,doubleclick.net
+  - DOMAIN-KEYWORD,braze.com
+  - DOMAIN-KEYWORD,crowdin.net
+  - DOMAIN-KEYWORD,onetrust.io
+  
