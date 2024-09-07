@@ -1,18 +1,19 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.ifeng.com/tv/凤凰卫视中文台.png" group-title="北京地方",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
 #EXTINF:-1 tvg-name="凤凰中文" group-title="北京地方" tvg-logo="https://live.ifeng.com/tv/凤凰卫视中文台.png",凤凰中文[高清]
 #http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="北京地方" tvg-logo="https://live.ifeng.com/tv/凤凰卫视资讯台.png",凤凰资讯[高清]
 #http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BTV北京卫视[高清]
 http://192.168.5.1:4022/udp/239.3.1.241:8000
