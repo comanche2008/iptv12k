@@ -118,7 +118,7 @@ http://192.168.5.1:4022/rtp/239.3.1.184:8001
 http://192.168.5.1:4022/udp/239.3.1.151:8144
 
 #EXTINF:-1 tvg-name="CCTV4K" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tv1/CCTV/CCTV4k.png",CCTV-4K 央视4k
-http://192.168.5.1:4022/udp/239.3.1.183:8001
+http://192.168.5.1:4022/udp/239.3.1.245:2000
 
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://egp.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K[超清]
 http://192.168.5.1:4022/udp/239.3.1.236:2000
