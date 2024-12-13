@@ -7,13 +7,11 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="北京地方" tvg-logo="https://live.ifeng.com/tv/凤凰卫视中文台.png",凤凰中文[高清]
 #http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
-http://171.216.154.162:8188/rtp/239.93.1.9:2192
+https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="北京地方" tvg-logo="https://live.ifeng.com/tv/凤凰卫视资讯台.png",凤凰资讯[高清]
 #http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-http://171.216.154.162:8188/rtp/239.93.1.4:2191
+https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BTV北京卫视[高清]
 http://192.168.5.1:4022/udp/239.3.1.241:8000
