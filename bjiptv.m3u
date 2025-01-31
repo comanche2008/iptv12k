@@ -2,7 +2,8 @@
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.ifeng.com/tv/凤凰卫视中文台.png" group-title="北京地方",凤凰香港
 #http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+#http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 #EXTINF:-1 tvg-name="凤凰中文" group-title="北京地方" tvg-logo="https://live.ifeng.com/tv/凤凰卫视中文台.png",凤凰中文[高清]
 #http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
