@@ -77,7 +77,7 @@ http://192.168.5.1:4022/udp/239.3.1.172:8001
 http://192.168.5.1:4022/udp/239.3.1.105:8092
 
 #EXTINF:-1 tvg-name="CCTV5" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5 体育[高清]
-http://192.168.10.1:4022/udp/239.3.1.173:8001
+http://192.168.10.1:4022/udp/239.3.1.108:8001
 
 #EXTINF:-1 tvg-name="CCTV5+" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+ 体育赛事[高清]
 http://192.168.5.1:4022/udp/239.3.1.130:8004
