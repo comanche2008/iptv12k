@@ -49,27 +49,27 @@ http://192.168.5.1:4022/rtp/239.2.1.76:4120
 http://192.168.5.1:4022/rtp/239.2.1.77:4120
 #EXTINF:-1 tvg-name="CCTV1" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1 综合[高清]
 http://192.168.5.1:4022/rtp/239.2.1.78:4120
-#EXTINF:-1 tvg-name="CCTV14" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 综合[高清]
+#EXTINF:-1 tvg-name="CCTV14" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿[高清]
 http://192.168.5.1:4022/rtp/239.2.1.79:4120
 #EXTINF:-1 tvg-name="华数传媒5" group-title="华数传媒" tvg-logo="",华数传媒5[高清]
 http://192.168.5.1:4022/rtp/239.2.1.80:4120
-#EXTINF:-1 tvg-name="CCTV3" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3 综合[高清]
+#EXTINF:-1 tvg-name="CCTV3" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3 综艺[高清]
 http://192.168.5.1:4022/rtp/239.2.1.81:4120
-#EXTINF:-1 tvg-name="CCTV10" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10 综合[高清]
+#EXTINF:-1 tvg-name="CCTV10" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10 科教[高清]
 http://192.168.5.1:4022/rtp/239.2.1.82:4120
 #EXTINF:-1 tvg-name="CCTV1" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1 综合[高清]
 http://192.168.5.1:4022/rtp/239.2.1.83:4120
 #EXTINF:-1 tvg-name="华数传媒6" group-title="华数传媒" tvg-logo="",华数传媒6[高清]
 http://192.168.5.1:4022/rtp/239.2.1.84:4120
-#EXTINF:-1 tvg-name="CCTV8" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8 综合[高清]
+#EXTINF:-1 tvg-name="CCTV8" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8 电视剧[高清]
 http://192.168.5.1:4022/rtp/239.2.1.85:4120
-#EXTINF:-1 tvg-name="CCTV10" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb10/CCTV/CCTV1.png",CCTV-10 综合[高清]
+#EXTINF:-1 tvg-name="CCTV10" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb10/CCTV/CCTV1.png",CCTV-10 科教[高清]
 http://192.168.5.1:4022/rtp/239.2.1.86:4120
-#EXTINF:-1 tvg-name="CCTV7" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7 综合[高清]
+#EXTINF:-1 tvg-name="CCTV7" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7 军事[高清]
 http://192.168.5.1:4022/rtp/239.2.1.87:4120
 #EXTINF:-1 tvg-name="" group-title="" tvg-logo=""
 http://192.168.5.1:4022/rtp/239.2.1.88:4120
-#EXTINF:-1 tvg-name="CCTV5" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5 综合[高清]
+#EXTINF:-1 tvg-name="CCTV5" group-title="中央频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5 体育[高清]
 http://192.168.5.1:4022/rtp/239.2.1.89:4120
 #EXTINF:-1 tvg-name="华数传媒7" group-title="华数传媒" tvg-logo="",华数传媒7[高清]
 http://192.168.5.1:4022/rtp/239.2.1.90:4120
