@@ -16,6 +16,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
+#EXTINF:-1 tvg-name="北京卫视4k" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BTV北京卫视4K[超高清]
+http://192.168.5.1:4022/udp/239.3.1.22:8001
+
 #EXTINF:-1 tvg-name="北京卫视" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",BTV北京卫视[高清]
 http://192.168.5.1:4022/udp/239.3.1.241:8000
 
