@@ -174,10 +174,19 @@ http://192.168.5.1:4022/udp/239.3.1.91:4120
 #EXTINF:-1 tvg-name="家庭影院" tvg-logo="" group-title="北京地方",家庭影院
 http://192.168.5.1:4022/udp/239.3.1.93:4120
 
+#EXTINF:-1 tvg-name="解密" tvg-logo="" group-title="北京地方",解密[高清]
+http://192.168.5.1:4022/udp/239.3.1.75:4120
+
+#EXTINF:-1 tvg-name="军事" tvg-logo="" group-title="北京地方",军事[高清]
+http://192.168.5.1:4022/udp/239.3.1.76:4120
+
+#EXTINF:-1 tvg-name="国学" tvg-logo="" group-title="北京地方",国学[高清]
+http://192.168.5.1:4022/udp/239.3.1.77:4120
+
 #EXTINF:-1,精选
 http://192.168.5.1:4022/udp/239.3.1.74:4120
 
-#EXTINF:-1 tvg-name="IPTV经典电影",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",经典电影
+#EXTINF:-1 tvg-name="IPTV经典电影" group-title="北京地方",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",经典电影
 http://192.168.5.1:4022/udp/239.3.1.195:9024
 
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="北京地方",纪实人文[高清]
@@ -195,8 +204,26 @@ http://192.168.5.1:4022/udp/239.3.1.114:8001
 #EXTINF:-1 tvg-name="地理" tvg-logo="" group-title="北京地方",地理
 http://192.168.5.1:4022/udp/239.3.1.71:4120
 
-#EXTINF:-1,粤荟萃
+#EXTINF:-1 tvg-name="粤荟萃" tvg-logo="" group-title="北京地方",粤荟萃
 http://192.168.5.1:4022/rtp/239.3.1.162:8001
+
+#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="" group-title="北京地方",睛彩竞技[高清]
+http://192.168.5.1:4022/udp/239.3.1.125:8001
+
+#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="" group-title="北京地方",睛彩篮球[高清]
+http://192.168.5.1:4022/udp/239.3.1.126:8001
+
+#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="" group-title="北京地方",睛彩青少[高清]
+http://192.168.5.1:4022/udp/239.3.1.127:8001
+
+#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="" group-title="北京地方",睛彩广场舞[高清]
+http://192.168.5.1:4022/udp/239.3.1.128:8001
+
+# #EXTINF:-1 tvg-name="魅力足球" tvg-logo="" group-title="北京地方",魅力足球[高清]
+http://192.168.5.1:4022/udp/239.3.1.201:8001
+
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="" group-title="北京地方",茶频道[高清]
+http://192.168.5.1:4022/udp/239.3.1.165:8001
 
 #EXTINF:-1,IPTV3+
 http://192.168.5.1:4022/rtp/239.3.1.198:9004
