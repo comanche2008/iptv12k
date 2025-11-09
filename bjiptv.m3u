@@ -130,21 +130,48 @@ http://192.168.5.1:4022/udp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="每日影院" tvg-logo="" group-title="北京地方",每日影院[高清]
 http://192.168.5.1:4022/udp/239.3.1.111:8001
 
-#EXTINF:-1 tvg-name="该频道节目单尚无",重温经典[高清]
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="" group-title="北京地方",音乐现场[高清]
+http://192.168.5.1:4022/udp/239.3.1.70:4120
 
-#EXTINF:-1,星影
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="" group-title="北京地方",重温经典[高清]
+
+#EXTINF:-1 tvg-name="动画" tvg-logo="" group-title="北京地方",动画[高清]
+http://192.168.5.1:4022/udp/239.3.1.80:4120
+
+#EXTINF:-1 tvg-name="IPTV热播剧场" tvg-logo="" group-title="北京地方",热播剧场[高清]
+http://192.168.5.1:4022/udp/239.3.1.194:9020
+
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="" group-title="北京地方",军旅剧场[高清]
+http://192.168.5.1:4022/udp/239.3.1.68:4120
+
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="" group-title="北京地方",古装剧场[高清]
+http://192.168.5.1:4022/udp/239.3.1.69:4120
+
+#EXTINF:-1 tvg-name="城市剧场" tvg-logo="" group-title="北京地方",城市剧场[高清]
+http://192.168.5.1:4022/udp/239.3.1.67:4120
+
+#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="" group-title="北京地方",武侠剧场[高清]
+http://192.168.5.1:4022/udp/239.3.1.90:4120
+
+#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="" group-title="北京地方",魅力时尚[高清]
+http://192.168.5.1:4022/udp/239.3.1.196:9012
+
+#EXTINF:-1 tvg-name="高网" tvg-logo="" group-title="北京地方",高网[高清]
+http://192.168.5.1:4022/udp/239.3.1.88:4120
+
+#EXTINF:-1 tvg-name="星影" tvg-logo="" group-title="北京地方",星影
 http://192.168.5.1:4022/udp/239.3.1.94:4120
 
-#EXTINF:-1,动作影院
+#EXTINF:-1 tvg-name="动作影院" tvg-logo="" group-title="北京地方",动作影院
 http://192.168.5.1:4022/udp/239.3.1.92:4120
 
-#EXTINF:-1,光影
+#EXTINF:-1 tvg-name="光影" tvg-logo="" group-title="北京地方",光影
 http://192.168.5.1:4022/udp/239.3.1.84:4120
 
-#EXTINF:-1,喜剧影院
+#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="" group-title="北京地方",喜剧影院
 http://192.168.5.1:4022/udp/239.3.1.91:4120
 
-#EXTINF:-1,家庭影院
+#EXTINF:-1 tvg-name="家庭影院" tvg-logo="" group-title="北京地方",家庭影院
 http://192.168.5.1:4022/udp/239.3.1.93:4120
 
 #EXTINF:-1,精选
@@ -165,16 +192,17 @@ http://192.168.5.1:4022/udp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="风尚生活" tvg-logo="" group-title="北京地方",风尚生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.114:8001
 
-#EXTINF:-1 地理
+#EXTINF:-1 tvg-name="地理" tvg-logo="" group-title="北京地方",地理
 http://192.168.5.1:4022/udp/239.3.1.71:4120
 
 #EXTINF:-1,粤荟萃
 http://192.168.5.1:4022/rtp/239.3.1.162:8001
+
 #EXTINF:-1,IPTV3+
 http://192.168.5.1:4022/rtp/239.3.1.198:9004
+
 #EXTINF:-1,tvg-name="IPTV5+高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="北京地方",IPTV5+高清
 http://192.168.5.1:4022/rtp/239.3.1.237:4120
-
 
 #EXTINF:-1 tvg-name="幸福剧场" tvg-logo="" group-title="北京地方",幸福剧场[高清]
 http://192.168.5.1:4022/udp/239.3.1.112:8001
@@ -326,7 +354,7 @@ http://192.168.5.1:4022/udp/239.3.1.215:4220
 #EXTINF:-1 tvg-name="CGTNDocumentary",CGTN 记录[高清]
 http://192.168.5.1:4022/udp/239.3.1.216:4220
 
-#EXTINF:-1 tvg-name="茶频道" group-title="",茶频道[高清]
+#EXTINF:-1 tvg-name="茶频道" group-title="北京地方",茶频道[高清]
 http://192.168.5.1:4022/udp/239.3.1.165:8001
 
 #EXTINF:-1,tvg-name="体育赛事" tvg-logo="" group-title="北京地方",体育赛事[高清]
@@ -335,7 +363,7 @@ http://192.168.5.1:4022/udp/239.3.1.157:8176
 #EXTINF:-1 tvg-name="淘精彩" group-title="北京地方",淘精彩[高清]
 http://192.168.5.1:4022/udp/239.3.1.178:8001
 
-#EXTINF:-1 tvg-name="快乐垂钓" group-title="",快乐垂钓[高清]
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="北京地方",快乐垂钓[高清]
 http://192.168.5.1:4022/udp/239.3.1.164:8001
 
 #EXTINF:-1 tvg-name="大健康" group-title="北京地方",大健康[高清]
