@@ -37,31 +37,31 @@ http://192.168.5.1:4022/udp/239.3.1.116:8000
 #EXTINF:-1 tvg-name="BTV生活" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png",BTV生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.117:8000
 
-#EXTINF:-1 tvg-name="BTV科教" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png",BTV科教[高清]
+#EXTINF:-1 tvg-name="北京纪实科教" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png",BTV科教[高清]
 http://192.168.5.1:4022/udp/239.3.1.115:8000
 
-#EXTINF:-1 tvg-name="卡酷动画" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",BTV卡酷少儿[高清]
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",BTV卡酷少儿[高清]
 http://192.168.5.1:4022/udp/239.3.1.189:8000
 
 #EXTINF:-1 tvg-name="北京体育休闲" group-title="北京地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png",BTV体育休闲[高清]
 http://192.168.5.1:4022/udp/239.3.1.243:8000
 
-#EXTINF:-1 tvg-name="北京IPTV4K超清" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptv4k.png" group-title="北京地方",北京IPTV4K超清
+#EXTINF:-1 tvg-name="4K超清" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptv4k.png" group-title="北京地方",北京IPTV4K超清
 http://192.168.5.1:4022/udp/239.3.1.249:8001
 
-#EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptvdy.png" group-title="北京地方",北京IPTV淘电影
+#EXTINF:-1 tvg-name="北京淘电影" tvg-logo="http://n.ysyz.top:99/buyaolian/bjiptvdy.png" group-title="北京地方",北京IPTV淘电影
 http://192.168.5.1:4022/udp/239.3.1.250:8001
 
-#EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="北京地方",北京IPTV淘剧场
+#EXTINF:-1 tvg-name="北京淘剧场" tvg-logo="https://www.hualigs.cn/image/6153d99a454ef.jpg" group-title="北京地方",北京IPTV淘剧场
 http://192.168.5.1:4022/udp/239.3.1.95:8001
 
-#EXTINF:-1 tvg-name="北京IPTV淘娱乐" tvg-logo="https://www.hualigs.cn/image/6153d99a421ec.jpg" group-title="北京地方",北京IPTV淘娱乐
+#EXTINF:-1 tvg-name="北京淘娱乐" tvg-logo="https://www.hualigs.cn/image/6153d99a421ec.jpg" group-title="北京地方",北京IPTV淘娱乐
 http://192.168.5.1:4022/udp/239.3.1.100:8001
 
-#EXTINF:-1 tvg-name="北京IPTV淘BABY” tvg-logo="" group-title="北京地方",北京IPTV淘BABY
+#EXTINF:-1 tvg-name="北京BABY” tvg-logo="" group-title="北京地方",北京IPTV淘BABY
 http://192.168.5.1:4022/udp/239.3.1.238:8001
 
-#EXTINF:-1 tvg-name="北京IPTV萌宠TV” tvg-logo="" group-title="北京地方",北京IPTV萌宠TV
+#EXTINF:-1 tvg-name="萌宠TV” tvg-logo="" group-title="北京地方",北京IPTV萌宠TV
 http://192.168.5.1:4022/udp/239.3.1.102:8001
 
 
@@ -139,7 +139,7 @@ http://192.168.5.1:4022/udp/239.3.1.25:8001
 #EXTINF:-1 tvg-name="动画" tvg-logo="" group-title="北京地方",动画[高清]
 http://192.168.5.1:4022/udp/239.3.1.80:4120
 
-#EXTINF:-1 tvg-name="IPTV热播剧场" tvg-logo="" group-title="北京地方",热播剧场[高清]
+#EXTINF:-1 tvg-name="热播剧场" tvg-logo="" group-title="北京地方",热播剧场[高清]
 http://192.168.5.1:4022/udp/239.3.1.194:9020
 
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="" group-title="北京地方",军旅剧场[高清]
@@ -187,7 +187,7 @@ http://192.168.5.1:4022/udp/239.3.1.77:4120
 #EXTINF:-1,精选
 http://192.168.5.1:4022/udp/239.3.1.74:4120
 
-#EXTINF:-1 tvg-name="IPTV经典电影" group-title="北京地方",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",经典电影
+#EXTINF:-1 tvg-name="经典电影" group-title="北京地方",tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png",经典电影
 http://192.168.5.1:4022/udp/239.3.1.195:9024
 
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="北京地方",纪实人文[高清]
