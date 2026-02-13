@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml,https://epg.aptv.app/pp.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml,https://e.erw.cc/e.xml,https://epg.aptv.app/pp.xml.gz"
 #EXTINF:-1 tvg-id="PhoenixHK" tvg-name="凤凰香港" tvg-logo="https://live.ifeng.com/tv/凤凰卫视中文台.png" group-title="北京地方",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="PhoenixCN" tvg-name="凤凰中文" tvg-logo="https://live.ifeng.com/tv/凤凰卫视中文台.png" group-title="北京地方",凤凰中文[高清]
