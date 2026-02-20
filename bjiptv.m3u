@@ -5,25 +5,25 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="PhoenixNews" tvg-name="凤凰资讯" tvg-logo="https://live.ifeng.com/tv/凤凰卫视资讯台.png" group-title="北京地方",凤凰资讯[高清]
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="BRTV1-4K" tvg-name="北京卫视4k" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京卫视4K.png" group-title="北京地方",BTV北京卫视4K[超高清]
+#EXTINF:-1 tvg-id="BRTV1-4K" tvg-name="北京卫视4k" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京卫视4K.png" group-title="北京地方",BTV北京卫视4K[超高清]
 http://192.168.5.1:4022/udp/239.3.1.22:8001
-#EXTINF:-1 tvg-id="BRTV1" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京卫视.png" group-title="北京地方",BTV北京卫视[高清]
+#EXTINF:-1 tvg-id="BRTV1" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京卫视.png" group-title="北京地方",BTV北京卫视[高清]
 http://192.168.5.1:4022/udp/239.3.1.241:8000
-#EXTINF:-1 tvg-id="BRTVNews" tvg-name="BTV新闻" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京新闻.png" group-title="北京地方",BTV新闻[高清]
+#EXTINF:-1 tvg-id="BRTVNews" tvg-name="BTV新闻" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京新闻.png" group-title="北京地方",BTV新闻[高清]
 http://192.168.5.1:4022/udp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="BRTVMovie" tvg-name="BTV影视" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京影视.png" group-title="北京地方",BTV影视[高清]
+#EXTINF:-1 tvg-id="BRTVMovie" tvg-name="BTV影视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京影视.png" group-title="北京地方",BTV影视[高清]
 http://192.168.5.1:4022/udp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="BRTVArt" tvg-name="BTV文艺" tvg-logo="http://https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京文艺.png" group-title="北京地方",BTV文艺[高清]
+#EXTINF:-1 tvg-id="BRTVArt" tvg-name="BTV文艺" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京文艺.png" group-title="北京地方",BTV文艺[高清]
 http://192.168.5.1:4022/udp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="BRTVFinance" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京财经.png" group-title="北京地方",BTV财经[高清]
+#EXTINF:-1 tvg-id="BRTVFinance" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京财经.png" group-title="北京地方",BTV财经[高清]
 http://192.168.5.1:4022/udp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="BRTVLife" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京生活.png" group-title="北京地方",catchup-source="rtsp://210.13.18.132:1554/iptv/Tvod/iptv/001/001/ch20121509461027820477.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",BTV生活[高清]
+#EXTINF:-1 tvg-id="BRTVLife" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京生活.png" group-title="北京地方",catchup-source="rtsp://210.13.18.132:1554/iptv/Tvod/iptv/001/001/ch20121509461027820477.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",BTV生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BRTVScience" tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京纪实科教.png" group-title="北京地方",BTV科教[高清]
+#EXTINF:-1 tvg-id="BRTVScience" tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京纪实科教.png" group-title="北京地方",BTV科教[高清]
 http://192.168.5.1:4022/udp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="BRTVKaku" tvg-name="卡酷少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京地方",BTV卡酷少儿[高清]
 http://192.168.5.1:4022/udp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="BRTVSports" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京体育休闲.png" group-title="北京地方",BTV体育休闲[高清]
+#EXTINF:-1 tvg-id="BRTVSports" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/北京体育休闲.png" group-title="北京地方",BTV体育休闲[高清]
 http://192.168.5.1:4022/udp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BJIPTV4K" tvg-name="4K超清" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bj4kcq.png" group-title="北京地方",北京IPTV4K超清
 http://192.168.5.1:4022/udp/239.3.1.249:8001
@@ -151,21 +151,21 @@ http://192.168.5.1:4022/rtp/239.3.1.237:4120
 http://192.168.5.1:4022/udp/239.3.1.112:8001
 #EXTINF:-1 tvg-id="BJHappyEnt" tvg-name="幸福娱乐" tvg-logo="" group-title="北京地方",幸福娱乐[高清]
 http://192.168.5.1:4022/udp/239.3.1.113:8001
-#EXTINF:-1 tvg-id="HunanTV-4K" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="超清HDR",湖南卫视[超清HDR]
+#EXTINF:-1 tvg-id="HunanTV-4K" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/湖南卫视4K.png" group-title="超清HDR",湖南卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.112:3002
-#EXTINF:-1 tvg-id="DragonTV-4K" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="超清HDR",东方卫视[超清HDR]
+#EXTINF:-1 tvg-id="DragonTV-4K" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/东方卫视4K.png" group-title="超清HDR",东方卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.119:3006
-#EXTINF:-1 tvg-id="ZhejiangTV-4K" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="超清HDR",浙江卫视[超清HDR]
+#EXTINF:-1 tvg-id="ZhejiangTV-4K" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/浙江卫视4K.png" group-title="超清HDR",浙江卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.114:3004
-#EXTINF:-1 tvg-id="JiangsuTV-4K" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="超清HDR",江苏卫视[超清HDR]
+#EXTINF:-1 tvg-id="JiangsuTV-4K" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/江苏卫视4K.png" group-title="超清HDR",江苏卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.113:3003
 #EXTINF:-1 tvg-id="ShenzhenTV-4K" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="超清HDR",深圳卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.202:2000
 #EXTINF:-1 tvg-id="GDTV-4K" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="超清HDR",广东卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.203:2000
-#EXTINF:-1 tvg-id="ShandongTV-4K" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="超清HDR",山东卫视[超清HDR]
+#EXTINF:-1 tvg-id="ShandongTV-4K" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/山东卫视4K.png" group-title="超清HDR",山东卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.144:3005
-#EXTINF:-1 tvg-id="SichuanTV-4K" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="超清HDR",四川卫视[超清HDR]
+#EXTINF:-1 tvg-id="SichuanTV-4K" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/comanche2008/iptv12k/main/tvlogo/四川卫视4K.png" group-title="超清HDR",四川卫视[超清HDR]
 http://192.168.5.1:4022/rtp/239.3.1.131:3001
 #EXTINF:-1 tvg-id="HunanTV" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="各地卫视",湖南卫视[高清]
 http://192.168.5.1:4022/udp/239.3.1.132:8012
