@@ -5,7 +5,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="PhoenixNews" tvg-name="凤凰资讯" tvg-logo="https://live.ifeng.com/tv/凤凰卫视资讯台.png" group-title="北京地方",凤凰资讯[高清]
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="BRTV1-4K" tvg-name="北京卫视4k" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京卫视.png" group-title="北京地方",BTV北京卫视4K[超高清]
+#EXTINF:-1 tvg-id="BRTV1-4K" tvg-name="北京卫视4k" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京卫视4K.png" group-title="北京地方",BTV北京卫视4K[超高清]
 http://192.168.5.1:4022/udp/239.3.1.22:8001
 #EXTINF:-1 tvg-id="BRTV1" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京地方",BTV北京卫视[高清]
 http://192.168.5.1:4022/udp/239.3.1.241:8000
