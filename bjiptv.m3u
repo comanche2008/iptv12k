@@ -17,7 +17,7 @@ http://192.168.5.1:4022/udp/239.3.1.158:8000
 http://192.168.5.1:4022/udp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BRTVFinance" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京财经.png" group-title="北京地方",BTV财经[高清]
 http://192.168.5.1:4022/udp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="BRTVLife" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京生活.png" group-title="北京地方",BTV生活[高清]
+#EXTINF:-1 tvg-id="BRTVLife" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京生活.png" group-title="北京地方",catchup-source="rtsp://210.13.18.132:1554/iptv/Tvod/iptv/001/001/ch20121509461027820477.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT",BTV生活[高清]
 http://192.168.5.1:4022/udp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BRTVScience" tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/comanche2008/TVlogo/main/iptv-logo/北京纪实科教.png" group-title="北京地方",BTV科教[高清]
 http://192.168.5.1:4022/udp/239.3.1.115:8000
