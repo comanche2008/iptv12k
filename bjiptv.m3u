@@ -259,6 +259,26 @@ http://192.168.5.1:4022/udp/239.3.1.164:8001
 http://192.168.5.1:4022/udp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="CETV1" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="中国教育频道",CETV1[高清]
 http://192.168.5.1:4022/udp/
+#EXTINF:-1 tvgid="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim East" group-title="Entertainment",Adult Swim East
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim West" group-title="Entertainment",Adult Swim West 
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS East" group-title="Entertainment",TBS East
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS West" group-title="Entertainment",TBS West
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="TCM" group-title="Movies",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT East" group-title="Entertainment",TNT East
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT West" group-title="Entertainment",TNT West
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV East" group-title="Entertainment",truTV East
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV West" group-title="Entertainment",truTV West
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 
 
