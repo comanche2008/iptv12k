@@ -37,41 +37,41 @@ http://192.168.5.1:4022/udp/239.3.1.100:8001
 http://192.168.5.1:4022/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="BJIPTVPet" tvg-name="萌宠TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjmctv.png" group-title="北京地方",北京IPTV萌宠TV
 http://192.168.5.1:4022/udp/239.3.1.102:8001
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央频道",CCTV-1 综合[高清]
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央频道",CCTV-1 综合[高清]
 http://192.168.5.1:4022/udp/239.3.1.129:8008
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央频道",CCTV-2 财经[高清]
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2 财经" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中央频道",CCTV-2 财经[高清]
 http://192.168.5.1:4022/udp/239.3.1.60:8084
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3 综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央频道",CCTV-3 综艺[高清]
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3 综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中央频道",CCTV-3 综艺[高清]
 http://192.168.5.1:4022/udp/239.3.1.172:8001
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4 中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中央频道",CCTV-4 中文国际[高清]
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 中文国际" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中央频道",CCTV-4 中文国际[高清]
 http://192.168.5.1:4022/udp/239.3.1.105:8092
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央频道",CCTV-5 体育[高清]
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5 体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中央频道",CCTV-5 体育[高清]
 http://192.168.5.1:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央频道",CCTV-5+ 体育赛事[高清]
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+ 体育赛事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中央频道",CCTV-5+ 体育赛事[高清]
 http://192.168.5.1:4022/udp/239.3.1.130:8004
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央频道",CCTV-6 电影[高清]
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6 电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中央频道",CCTV-6 电影[高清]
 http://192.168.5.1:4022/udp/239.3.1.174:8001
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7 国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中央频道",CCTV-7 国防军事[高清]
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7 国防军事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中央频道",CCTV-7 国防军事[高清]
 http://192.168.5.1:4022/udp/239.3.1.61:8104
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中央频道",CCTV-8 电视剧[高清]
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8 电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中央频道",CCTV-8 电视剧[高清]
 http://192.168.5.1:4022/udp/239.3.1.175:8001
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中央频道",CCTV-9 纪录[高清]
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9 纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中央频道",CCTV-9 纪录[高清]
 http://192.168.5.1:4022/udp/239.3.1.62:8112
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中央频道",CCTV-10 科教[高清]
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10 科教" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中央频道",CCTV-10 科教[高清]
 http://192.168.5.1:4022/udp/239.3.1.63:8116
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11 戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中央频道",CCTV-11 戏曲[高清]
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11 戏曲" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中央频道",CCTV-11 戏曲[高清]
 http://192.168.5.1:4022/udp/239.3.1.152:8120
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12 社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中央频道",CCTV-12 社会与法[高清]
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12 社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中央频道",CCTV-12 社会与法[高清]
 http://192.168.5.1:4022/udp/239.3.1.64:8124
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央频道",CCTV-13 新闻[高清]
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13 新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中央频道",CCTV-13 新闻[高清]
 http://192.168.5.1:4022/udp/239.3.1.124:8128
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14 少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中央频道",CCTV-14 少儿[高清]
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14 少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中央频道",CCTV-14 少儿[高清]
 http://192.168.5.1:4022/udp/239.3.1.65:8132
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央频道",CCTV-15 音乐[高清]
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15 音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中央频道",CCTV-15 音乐[高清]
 http://192.168.5.1:4022/udp/239.3.1.153:8136
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央频道",CCTV-16 奥林匹克4k[高清]
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16 奥林匹克" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中央频道",CCTV-16 奥林匹克4k[高清]
 http://192.168.5.1:4022/rtp/239.3.1.184:8001
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央频道",CCTV-17 农业农村[高清]
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中央频道",CCTV-17 农业农村[高清]
 http://192.168.5.1:4022/udp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tv1/CCTV/CCTV4k.png" group-title="中央频道",CCTV-4K 央视4k
 http://192.168.5.1:4022/udp/239.3.1.245:2000
